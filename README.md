@@ -23,12 +23,12 @@ Please cite our paper if you use this code in your own work:
 
 '''             
 @inproceedings{ESIAStar_AAAI23,                   
-  title     = {Electrophysiological brain source imaging via combinatorial search with provable optimality},
-  author    = {Wan, Guihong and Jiao, Meng and Ju, Xinglong and Zhang, Yu and Schweitzer, Haim and Liu, Feng},
-  booktitle = {Proceedings of the AAAI conference on artificial intelligence},
-  volume    = {37},
-  number    = {10},
-  pages     = {12491--12499},
-  year      = {2023}            
+  title     = {Electrophysiological brain source imaging via combinatorial search with provable optimality},    
+  author    = {Wan, Guihong and Jiao, Meng and Ju, Xinglong and Zhang, Yu and Schweitzer, Haim and Liu, Feng},    
+  booktitle = {Proceedings of the AAAI conference on artificial intelligence},    
+  volume    = {37},    
+  number    = {10},    
+  pages     = {12491--12499},    
+  year      = {2023}               
 }        
 '''
